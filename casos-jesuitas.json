@@ -1,106 +1,68 @@
 {
     "nodes":[
         {
-            "name":"Ilya I",
+            "name":"sacerdote Jaime Guzmán Astaburuaga",
             "group":0
         },
         {
-            "name":"Betty  B",
+            "name":"Eugenio Valenzuela",
             "group":1
         },
         {
-            "name":"Andy N",
+            "name":"Sebastián Errázuriz",
             "group":2
         },
         {
-            "name":"Harper P",
+            "name":"Fernando Montes",
             "group":3
-        },
-        {
-            "name":"Holly V",
-            "group":4
-        },
-        {
-            "name":"Elijah W",
-            "group":5
-        },
-        {
-            "name":"Kalvin L",
-            "group":6
-        },
-        {
-            "name":"Chris  D",
-            "group":7
-        },
-        {
-            "name":"Alexa U",
-            "group":8
         }
     ],
     "links":[
         {
             "source":2,
-            "target":5,
-            "value":1,
-            "type":"arrow"
-        },
-        {
-            "source":2,
-            "target":6,
-            "value":3,
-            "type":"arrow"
-        },
-        {
-            "source":2,
-            "target":7,
-            "value":1,
-            "type":"arrow"
-        },
-        {
-            "source":2,
-            "target":8,
+            "target":3,
             "value":1,
             "type":"arrow"
         },
         {
             "source":3,
             "target":2,
+            "value":3,
+            "type":"arrow"
+        },
+        {
+            "source":0,
+            "target":1,
+            "value":1,
+            "type":"arrow"
+        },
+        {
+            "source":0,
+            "target":2,
+            "value":1,
+            "type":"arrow"
+        },
+        {
+            "source":1,
+            "target":0,
+            "value":1,
+            "type":"arrow"
+        },
+        {
+            "source":0,
+            "target":3,
             "value":1,
             "type":"arrow"
         },
         {
             "source":3,
-            "target":4,
-            "value":1,
-            "type":"arrow"
-        },
-        {
-            "source":3,
-            "target":6,
+            "target":0,
             "value":2,
             "type":"arrow"
         },
         {
-            "source":3,
-            "target":7,
-            "value":1,
-            "type":"arrow"
-        },
-        {
-            "source":3,
-            "target":8,
-            "value":3,
-            "type":"arrow"
-        },
-        {
-            "source":5,
-            "target":5,
-            "value":1,
-            "type":"arrow"
-        },
-        {
-            "source":6,
-            "target":2,
+            "source":1,
+            "target":3,
             "value":1,
             "type":"arrow"
         }
